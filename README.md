@@ -6,4 +6,4 @@ The character is controlled with the arrow keys and space bar.
 
 ![](kuvat/platformer.png)
 ![](kuvat/platformer1.png)
-![](kuvat/platformer2.png)
+![](Tasottaja/kuvat/idle1/idle/platformer2.png)
